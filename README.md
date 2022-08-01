@@ -60,7 +60,7 @@ Null Hypothesis – MechaCar is priced appropriately based on how its metrics co
 Alternate Hypothesis – MechaCar is priced inappropriately based on how its metrics compare with competitors. 
 
 Statistical Tests:
-Multiple Linear Regressions would be best to determine which metrics impact fuel efficiency and costs. Once key variables have been isolated, single linear regressions could be used to visualize the relationship. 
+To compare MechaCar to competitors, we would need to perform several primary statistical tests on the data including getting the means of the various metrics (vehicle weights based on styles, horsepower, tire sizes, fuel efficiency (both highyway and city), resale values, maintenance costs, lifespan of vehicles). In addition the standard deviation for each of those metrics would need to be calculated. A regression model including multiple Linear Regressions would be best to determine which metrics impact fuel efficiency and costs. Once key variables have been isolated, single linear regressions could be used to visualize the relationship. Hypothesis testing should be done to determine a p-value and significant level. In addition, a r^2 value should be determined to see if metrics are useful for predictions. Finally a sample size determination should be done to figure out the best number of samples to compare. 
 
 Data needed for statistical tests:
 fuel efficiency (city and highway), vehicle weight, engine type, horsepower, tire size, current costs, resale value, average maintenance costs, vehicle lifespan for MechaCar and its competitors. 
